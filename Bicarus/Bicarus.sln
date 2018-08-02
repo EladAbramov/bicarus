@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bicarus", "Assembly-CSharp.csproj", "{EACBBB64-0278-7901-B812-7127B6E3FD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACBBB64-0278-7901-B812-7127B6E3FD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACBBB64-0278-7901-B812-7127B6E3FD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACBBB64-0278-7901-B812-7127B6E3FD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACBBB64-0278-7901-B812-7127B6E3FD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
